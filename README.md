@@ -1,7 +1,3 @@
-# Legacy Books
-
-Some old books produced by SuttaCentral.
-
 ## The Book of the Discipline
 
 SuttaCentral is proud to offer the full text of I.B. Horner’s translation of the Pali Vinaya in six volumes. This is the first time that this classic of 20th century Buddhist scholarship has been made available in a true digital edition. We are able to do this because the [Pali Text Society](http://www.palitext.com/), holders of the copyright, kindly released the text under a [Creative Commons Attribution-NonCommercial 3.0](http://creativecommons.org/licenses/by-nc/3.0/) licence.
