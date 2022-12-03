@@ -1,4 +1,6 @@
-# legacy-books
+# Legacy Books
+
+Some old books produced by SuttaCentral.
 
 ## The Book of the Discipline
 
