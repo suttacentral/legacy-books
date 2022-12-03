@@ -25,7 +25,7 @@ The Sutta Nipāta is a well known and well loved early Buddhist text. It is a co
 
 <table>
             <tbody><tr>
-              <td><a class="file" href="https://github.com/suttacentral/suttacentral-files/blob/master/snp.pdf">PDF</a> (9.8mb)</td>
+              <td><a class="file" href="https://github.com/suttacentral/suttacentral-files/blob/master/snp.pdf?raw=true">PDF</a> (9.8mb)</td>
               <td>The text, footnotes, and introduction in a high quality PDF.</td>
             </tr>
             <tr>
